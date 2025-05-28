@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 I'm a passionate developer who loves building apps and solving problems.  
-Currently focusing on Flutter, Dart, and backend APIs.
+Currently focusing on Flutter, Web Dev, and a bit of DSA.
 
 - 🔭 I’m currently working on my portofolio
 - 🌱 I’m currently learning some mobile, web and a bit of DSA
